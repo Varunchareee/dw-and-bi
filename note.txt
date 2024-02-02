@@ -1,0 +1,2 @@
+สร้าง data model 
+โดยมีการเพิ่ม table actors, events, org, payload, repo
