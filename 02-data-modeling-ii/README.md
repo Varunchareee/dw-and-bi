@@ -31,6 +31,6 @@ $ docker compose up
 
 $ python ety.py
 
-7. Run python etl.py
+### 7. Run python etl.py
 
 ![Alt text](image-5.png)
